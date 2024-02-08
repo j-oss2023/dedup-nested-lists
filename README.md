@@ -53,7 +53,7 @@ The `dedup_nested_lists` filter takes a dictionary as input. Each key in the dic
 
 ## Contributing
 
-Contributions to improve `mysql-dynamic-inventory` are welcome. Please ensure to follow best practices and open a pull request for any enhancements.
+Contributions to improve `dedup-nested-lists` are welcome. Please ensure to follow best practices and open a pull request for any enhancements.
 
 
 ## Acknowledgments
